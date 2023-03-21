@@ -34,7 +34,7 @@ function loadNextQuestion () {
 
 	
 	if(!selectedOption){
-		alert('Bitte wähle eine Antwort!');
+		alert('Bitte wählen Sie eine Antwort!');
 		return;
     }
 
@@ -87,10 +87,10 @@ function showResult (){
 	resultCont.style.display = '';
 
 	if(score==1){
-	resultCont.textContent = 'Du hast '+ score +' Punkt erreicht!';
+	resultCont.textContent = 'Sie haben '+ score +' Punkt erreicht!';
 	}
 	else{
-	resultCont.textContent = 'Du hast '+ score +' Punkte erreicht!';
+	resultCont.textContent = 'Sie haben '+ score +' Punkte erreicht!';
 	};
 	repeatButton.style.display='';
 
