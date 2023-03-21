@@ -38,10 +38,7 @@ function loadNextQuestion () {
 		return;
     }
 
-	
-	
-		
-	
+
 	var answer=selectedOption.value;
 	
 	if(aufgaben[currentQuestion].answer == answer){	
