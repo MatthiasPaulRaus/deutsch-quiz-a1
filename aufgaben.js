@@ -30,7 +30,7 @@ const aufgaben = [
         "option3": "Ihr wohnt in Hamburg.",
         "answer": "1"
     }, {
-        "question": "Frau Blanco, wer ist das?",
+        "question": "Frau Bianco, wer ist das?",
         "option1": "Das ist mein Auto.",
         "option2": "Hm, das ist eine Katze.",
         "option3": "Das ist meine Schwester Olga.",
