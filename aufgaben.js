@@ -109,7 +109,7 @@ const aufgaben = [
         "answer": "2"
     }, {
         "question": "Was haben Sie gestern Abend gemacht?",
-        "option1": "Wir haben eingekauft.",
+        "option1": "Wir haben um vier eingekauft.",
         "option2": "Ich habe mein Arbeitszimmer aufgeräumt.",
         "option3": "Ich muss aufräumen.",
         "answer": "2"
